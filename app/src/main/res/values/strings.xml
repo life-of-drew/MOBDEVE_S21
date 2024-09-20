@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SupplementaryRV</string>
+    <string-array name="planet_names">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+    <string-array name="number_moons">
+        <item>Number of Moons: 0</item>
+        <item>Number of Moons: 0</item>
+        <item>Number of Moons: 1</item>
+        <item>Number of Moons: 2</item>
+        <item>Number of Moons: 79</item>
+        <item>Number of Moons: 82</item>
+        <item>Number of Moons: 27</item>
+        <item>Number of Moons: 14</item>
+    </string-array>
+</resources>
